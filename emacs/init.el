@@ -210,3 +210,24 @@ The DWIM behaviour of this command is as follows:
 (load-theme 'doric-light)
 
 (spacious-padding-mode)
+
+(setq-default frame-title-format "")
+(set-frame-parameter nil 'ns-transparent-titlebar t)
+(add-to-list 'default-frame-alist '(ns-transparent-titlebar . t))
+
+(ultra-scroll-mode)
+(vertico-mouse-mode)
+
+(setq mode-line-format
+      (append mode-line-format
+              '((:eval
+                 (propertize " ⌘ "
+                             'help-echo "Open M-x"
+                             'mouse-face 'mode-line-highlight
+                             'local-map (let ((map (make-sparse-keymap)))
+                                          (define-key map [mode-line mouse-1]
+                                            (lambda () (interactive)
+                                              (call-interactively #'execute-extended-command)))
+                                          map))))))
+
+
