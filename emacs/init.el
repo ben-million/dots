@@ -193,9 +193,18 @@ The DWIM behaviour of this command is as follows:
 (setq fontaine-presets
       '((Hack
          :default-family "Hack"
-         :default-height 200
+         :default-height 100
          :variable-pitch-family "Hack"
          :line-spacing 1)))
 
 (use-package vterm)
 (use-package ultra-scroll)
+
+(use-package time-zones)
+
+(vertico-mode)
+(vertico-grid-mode)
+
+(load-theme 'doric-light)
+
+(spacious-padding-mode)
