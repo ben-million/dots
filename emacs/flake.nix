@@ -47,7 +47,7 @@
             owner = "protesilaos";
             repo = "doric-themes";
             rev = "fccfa980635d5df00bc1be29908b9bcbbe3aa9f5";
-            sha256 = "sha256-zolNEgR7iuXt4ZU1vcZHb1dXZ6H+ZcxWHTh97KsIq4A=";
+            sha256 = "sha256-8vhaBzeG5jx295dBI5TX5Wr3f/kVAyPaWpGQV8M1oNA=";
           };
         })
       ]);

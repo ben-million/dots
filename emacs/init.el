@@ -205,6 +205,8 @@ The DWIM behaviour of this command is as follows:
 (vertico-mode)
 (vertico-grid-mode)
 
+(use-package doric-themes)
+
 (load-theme 'doric-light)
 
 (spacious-padding-mode)
