@@ -28,7 +28,7 @@
         fontaine
         vterm
         ultra-scroll
-        
+
         (epkgs.trivialBuild {
           pname = "time-zones";
           version = "2025-01-01";
@@ -50,6 +50,18 @@
             sha256 = "sha256-8vhaBzeG5jx295dBI5TX5Wr3f/kVAyPaWpGQV8M1oNA=";
           };
         })
+
+        (epkgs.trivialBuild {
+          pname = "combobulate";
+          version = "2025-01-01";
+          src = pkgs.fetchFromGitHub {
+            owner = "mickeynp";
+            repo = "combobulate";
+            rev = "17c71802eed2df1a6b25199784806da6763fb90c";
+            sha256 = "sha256-8vhaBzeG5jx295dBI5TX5Wr3f/kVAyPaWpGQV8M1oNA=";
+          };
+        })
+
       ]);
     in
     {

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+  </head>
+  <body>
+    <ul id="Pw3oO1WLTmC5P5ftcn1ly" data-created="0001-01-01T00:00:00Z" data-modified="0001-01-01T00:00:00Z">
+      <li id="UjOq648dojEb4k5Ctr1qL" data-created="2025-12-23T10:19:59Z" data-modified="2025-12-23T10:20:09Z">
+        <p>SpokeKey: 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</p>
+      </li>
+      <li id="hQOr1oDLSOGVv7U-UIRG9" data-created="2025-12-23T10:20:00Z" data-modified="2025-12-23T10:20:00Z">
+        <p/>
+      </li>
+      <li id="3C" data-type="heading" data-created="0001-01-01T00:00:00Z" data-modified="0001-01-01T00:00:00Z">
+        <p>Welcome to Bike!</p>
+      </li>
+      <li id="SxctgKSg9grQX0XGFJ_Ug" data-created="2025-12-23T10:21:07Z" data-modified="2025-12-23T10:21:07Z">
+        <p/>
+      </li>
+      <li id="4kht9Iwo_tKN-PxI9jqIB" data-created="2025-12-23T10:21:07Z" data-modified="2025-12-23T10:21:33Z">
+        <p><a href="bike://Pw3oO1WLTmC5P5ftcn1ly/AeoyEdHcFUOe755rNPAGp">What is the Bike editor for macOS?</a></p>
+      </li>
+      <li id="V7" data-created="0001-01-01T00:00:00Z" data-modified="0001-01-01T00:00:00Z">
+        <p/>
+      </li>
+      <li id="cr" data-created="0001-01-01T00:00:00Z" data-modified="0001-01-01T00:00:00Z">
+        <p>Use Bike to record and process your ideas. You&apos;ll need to spend a little time learning Bike to get the most out of it.</p>
+      </li>
+      <li id="Omp" data-created="0001-01-01T00:00:00Z" data-modified="0001-01-01T00:00:00Z">
+        <p/>
+      </li>
+      <li id="95Q" data-type="task" data-created="0001-01-01T00:00:00Z" data-modified="0001-01-01T00:00:00Z">
+        <p><a href="https://www.hogbaysoftware.com/bike">Watch intro movie</a></p>
+      </li>
+      <li id="-5Z" data-type="task" data-created="0001-01-01T00:00:00Z" data-modified="0001-01-01T00:00:00Z">
+        <p><a href="https://bikeguide.hogbaysoftware.com">Browse the User&apos;s Guide</a></p>
+      </li>
+      <li id="do-" data-type="task" data-created="0001-01-01T00:00:00Z" data-modified="0001-01-01T00:00:00Z">
+        <p><a href="https://bikeguide.hogbaysoftware.com/keyboard-shortcuts">Learn the keyboard shortcuts</a></p>
+      </li>
+      <li id="Bp" data-type="task" data-created="0001-01-01T00:00:00Z" data-modified="0001-01-01T00:00:00Z">
+        <p><a href="https://www.hogbaysoftware.com/posts/bike-rich-text/">Learn Bike&apos;s innovative rich text editing</a></p>
+      </li>
+      <li id="b1D" data-created="0001-01-01T00:00:00Z" data-modified="0001-01-01T00:00:00Z">
+        <p/>
+      </li>
+      <li id="um" data-created="0001-01-01T00:00:00Z" data-modified="0001-01-01T00:00:00Z">
+        <p>Feel free to delete this text. Uncheck &quot;Show Welcome in new documents&quot; in Bike&apos;s preferences to stop including this text in new outlines.</p>
+      </li>
+      <li id="Sd" data-created="0001-01-01T00:00:00Z" data-modified="0001-01-01T00:00:00Z">
+        <p/>
+      </li>
+      <li id="lg" data-created="0001-01-01T00:00:00Z" data-modified="0001-01-01T00:00:00Z">
+        <p>Thanks,</p>
+      </li>
+      <li id="Ca" data-created="0001-01-01T00:00:00Z" data-modified="0001-01-01T00:00:00Z">
+        <p>Jesse</p>
+      </li>
+      <li id="AeoyEdHcFUOe755rNPAGp" data-type="heading" data-created="2025-12-23T10:21:33Z" data-modified="2025-12-23T10:21:33Z" data-spokeThreadRoot="true">
+        <p><strong>@What is the Bike editor for macOS?</strong></p>
+        <ul>
+          <li id="9NF1q9FrSjIE9yNi3A0OI" data-type="quote" data-created="2025-12-23T10:21:33Z" data-modified="2025-12-23T10:23:36Z">
+            <p>Bike is a Mac-native text editor and outliner for macOS, created by <a href="bike://Pw3oO1WLTmC5P5ftcn1ly/xTXN5SNQf7fxagj5JTTet">Hog Bay Software</a> (the same developer behind <a href="bike://Pw3oO1WLTmC5P5ftcn1ly/U1UTQuIg2f_UNLWDRSFg6">TaskPaper</a>).
+
+Bike focuses on structured writing using outlines. You write in plain text, but the editor understands the hierarchy of headings and lists, letting you easily collapse, expand, reorder, and focus on parts of a document. It is designed to feel lightweight and fast, while still being powerful for organizing ideas.
+
+Key points about Bike:
+- It is an outliner first, not a traditional word processor.
+- Documents are plain text and human-readable.
+- Supports folding, hoisting (focusing on a <a href="bike://Pw3oO1WLTmC5P5ftcn1ly/xZGX_jA_F8nO8HwxqMfsX">subtree</a>), and keyboard-driven editing.
+- Integrates well with macOS features and automation.
+- Often used for writing, note-taking, planning, and thinking through complex ideas.
+
+In short, Bike is a minimalist, Mac-only outlining editor aimed at people who think and write in structured hierarchies.</p>
+          </li>
+          <li id="uMVcJIn_RM8uWRMKkahTH" data-created="2025-12-23T10:21:33Z" data-modified="2025-12-23T10:21:33Z">
+            <p/>
+          </li>
+        </ul>
+      </li>
+      <li id="xTXN5SNQf7fxagj5JTTet" data-type="heading" data-created="2025-12-23T10:23:17Z" data-modified="2025-12-23T10:23:17Z" data-spokeThreadRoot="true">
+        <p><strong>@Hog Bay Software</strong></p>
+        <ul>
+          <li id="v50nVAGKyYSjoIt90fn9e" data-type="quote" data-created="2025-12-23T10:23:17Z" data-modified="2025-12-23T10:23:29Z">
+            <p>Hog Bay Software was a small Mac software company founded by Gus Mueller. It was best known for developing productivity and note-taking applications for macOS, especially:
+
+- NoteTaker: a popular note-taking and outlining application for Mac users.
+- Mori: a lightweight outliner and note organizer.
+
+The company was active mainly in the early-to-mid 2000s. Development later slowed, and Hog Bay Software was eventually folded into Gus Mueller LLC, with no active products maintained under the Hog Bay name today.
+
+If you are asking about a specific product, history, or whether the software is still available or compatible with modern macOS versions, let me know.</p>
+          </li>
+          <li id="Za982Q8r98yReyv1pbqKK" data-created="2025-12-23T10:23:17Z" data-modified="2025-12-23T10:23:17Z">
+            <p/>
+          </li>
+        </ul>
+      </li>
+      <li id="U1UTQuIg2f_UNLWDRSFg6" data-type="heading" data-created="2025-12-23T10:23:19Z" data-modified="2025-12-23T10:23:19Z" data-spokeThreadRoot="true">
+        <p><strong>@TaskPaper</strong></p>
+        <ul>
+          <li id="LDK5Gjn9qPu-Dba6XLCEz" data-type="quote" data-created="2025-12-23T10:23:19Z" data-modified="2025-12-23T10:23:28Z">
+            <p>TaskPaper is a plain-text task management app and format created by Jesse Grosjean. It is popular on macOS and iOS, especially among users who like simple, keyboard-driven workflows.
+
+At its core, TaskPaper uses a very simple text structure:
+- Projects end with a colon
+- Tasks start with a hyphen
+- Notes are plain lines of text
+- Tags are written with an @ symbol
+
+Example:
+
+Home:
+- Buy groceries @errands
+- Clean kitchen @today
+- Fix sink @waiting
+
+Work:
+- Finish report @due(2025-01-05)
+- Email client @email
+
+Because it is plain text:
+- Files are easy to edit and sync
+- It works well with automation and scripting
+- You are not locked into a proprietary database
+
+People often use TaskPaper for:
+- GTD-style task management
+- Daily planning
+- Writing and outlining
+- Lightweight project tracking
+
+If you want, I can:
+- Explain the syntax in detail
+- Help you design a TaskPaper workflow
+- Convert another task system into TaskPaper format
+- Write a TaskPaper template for your needs
+
+Just tell me what you are looking for.</p>
+          </li>
+          <li id="piJDm03k8_hbNjVfn6aaw" data-created="2025-12-23T10:23:19Z" data-modified="2025-12-23T10:23:19Z">
+            <p/>
+          </li>
+        </ul>
+      </li>
+      <li id="xZGX_jA_F8nO8HwxqMfsX" data-type="heading" data-created="2025-12-23T10:23:36Z" data-modified="2025-12-23T10:23:36Z" data-spokeThreadRoot="true">
+        <p><strong>@subtree</strong></p>
+        <ul>
+          <li id="Z1gMNB7_l49AAeN2oBU_a" data-type="quote" data-created="2025-12-23T10:23:36Z" data-modified="2025-12-23T10:24:47Z">
+            <p>The word &quot;subtree&quot; has a few common meanings, depending on context:
+
+1. In data structures (trees):
+A subtree is a node in a tree together with all of its descendants. Any node can be considered the root of its own subtree.
+
+2. In computer science algorithms:
+Subtrees are often used when solving problems involving recursion, traversal, or tree properties (height, size, balance, etc.).
+
+3. In Git:
+slllllllllllsllllA Git subtree is a way to include another repository inside a subdirectory of a main repository, while keeping its history. It is an alternative to Git submodules.
+
+4. In general usage:
+A subtree is simply a smaller tree that is part of a larger tree.
+
+If you tell me the context (data structures, Git, math, or something else), I can explain in more detail.</p>
+          </li>
+          <li id="rb7ZQjIOg4Q5PBH4Vwx7b" data-created="2025-12-23T10:23:36Z" data-modified="2025-12-23T10:23:36Z">
+            <p/>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
